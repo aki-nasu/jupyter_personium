@@ -3,6 +3,8 @@ Personium APIをpythonで実行して試行するためのセットです。
 pythonとPersoniumの勉強のために作成しております。
 ひとまず自作のEngineScriptを実行するために必要なものを色々作成しています。
 
+![image](img/readme_01.png)
+
 ## 前提、制限
 * jupyter labで実行すること。
 * tokenが取得可能なCellが作成済みであること。

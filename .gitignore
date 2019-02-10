@@ -1,6 +1,8 @@
 # add
 test_data
 workspace
+get_token.ipynb
+set_config.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
