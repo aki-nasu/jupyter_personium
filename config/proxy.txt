@@ -1,0 +1,22 @@
+{
+    "http" : {
+        "host" : {
+            "host" : "http_host",
+            "port" : "http_port"
+        },
+        "user" : {
+            "password" : "http_password",
+            "user" : "http_user"
+        }
+    },
+    "https" : {
+        "host" : {
+            "host" : "https_host",
+            "port" : "https_port"
+        },
+        "user" : {
+            "password" : "https_password",
+            "user" : "https_user"
+        }
+    }
+}
